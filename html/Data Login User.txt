@@ -1,0 +1,40 @@
+Data User yang sudah dideklar
+
+const dataUser =
+[
+  {
+    username: "wahyu",
+    password: "wahyu123",
+    name: "Wahyu saja",
+    status:"aktif"
+  },
+  {
+    username: "anasyah",
+    password: "anasyah123",
+    name: "Shanaz Yohanasyah",
+    status:"aktif"
+  },
+  {
+    username: "dimas",
+    password: "dimas123",
+    name: "Dimas Firmansyah",
+    status:"aktif"
+  },
+  {
+    username: "ananda",
+    password: "ananda123",
+    name: "Ananda Pratama I B",
+    status:"aktif"
+  }
+  ,{
+    username: "irma",
+    password: "irma123",
+    name: "Ade Irma",
+    status:"aktif"
+  }
+]
+
+
+Jika sudah sign up itu tidak akan ada refresh, akan tetapi data sudah tersimpan
+
+Terima Kasih :) 
